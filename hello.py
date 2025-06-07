@@ -1,10 +1,7 @@
-spam = 'Halo'
+# this is my first python program
+print ("Aku suka femboy")
 
-spam = 'Selamat tinggal'
-
-print(spam)
-
-
+print ("really good!")
 
 
 
